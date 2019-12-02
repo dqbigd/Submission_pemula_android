@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cryptocurrency</string>
+    <string name="account">Account</string>
+    <string name="account_name">Syukron Bilaghoyah Assiddiqi</string>
+    <string name="account_email">sukron.bigdsda@gmail.com</string>
+    <string name="name">nama</string>
+    <string name="detail">detail</string>
+    <string name="detail_name">Nama Detail</string>
+    <string name="detail_detail">Detail detail</string>
+</resources>
